@@ -1,0 +1,8 @@
+{
+  "name": "roentgen",
+  "description": "pluggable validation against schema",
+  "version": "0.1.1",
+  "dependencies": {
+    "underscore": "1.5.2"
+  }
+}
